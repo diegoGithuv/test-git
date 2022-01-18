@@ -1,0 +1,42 @@
+commit 6af80404b22f634a87d642b04c9f7eaf702994ad
+Merge: c309616 e45c8e8
+Author: diegoGithuv <daramireza@uaemex.mx>
+Date:   Tue Jan 18 17:00:26 2022 -0600
+
+    Merge branch 'issue_1' into main
+
+commit e45c8e86a21c48dbb49b46666c46bce6b666bfc0
+Author: diegoGithuv <daramireza@uaemex.mx>
+Date:   Tue Jan 18 16:55:20 2022 -0600
+
+    deleting test
+
+commit 55d7683337b42c50883eba67341401759bea7c5d
+Author: diegoGithuv <daramireza@uaemex.mx>
+Date:   Tue Jan 18 16:45:19 2022 -0600
+
+    test file
+
+commit bc2597c50af626f0510e80bd4309d8c631bb5124
+Author: diegoGithuv <daramireza@uaemex.mx>
+Date:   Tue Jan 18 16:41:50 2022 -0600
+
+    sum
+
+commit c3096160d35e7e71ef3f410869aa1a5b7db6c13c
+Author: diegoGithuv <daramireza@uaemex.mx>
+Date:   Tue Jan 18 16:27:56 2022 -0600
+
+    changes readme
+
+commit 59a0b42bd316daafaae8bc57f14b201ce0b07e94
+Author: diegoGithuv <daramireza@uaemex.mx>
+Date:   Tue Jan 18 16:25:55 2022 -0600
+
+    readme and src
+
+commit 902615bdbf9896aa25e766bb34e3dc3eddbac931
+Author: diegoGithuv <65377018+diegoGithuv@users.noreply.github.com>
+Date:   Tue Jan 18 16:21:06 2022 -0600
+
+    Initial commit
